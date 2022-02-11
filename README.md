@@ -10,15 +10,16 @@ class Erick{
 	val areas: MutableList<String> = mutableListOf("Iot","Web Developer","Movil","VideoGames")
 	val hobbies: MutableList<String> = mutableListOf("Skate","Movies","COSMOS","Raspberry","Arduino")
 	
-	fun greeting():String{
+	fun greeting{
 		print("Hi, I'm Erick and I love teamwork")
 	}
 }
 ```
 
-<aside>
-📇 `Create to learn and learn to create`
 
-</aside>
+
+📇 **Create to learn and learn to create**
+
+
 
 **[LinkedIn](https://www.linkedin.com/in/erick-huitziuit-morales-garcia/)** 👋

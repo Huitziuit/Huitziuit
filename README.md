@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hey!, I’m Erick Huitziuit
 
-<!--
-**Huitziuit/Huitziuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Engineering student in **computer science** at the
+[Universidad Autonoma Metropolitana](http://www.cua.uam.mx/)
 
-Here are some ideas to get you started:
+```kotlin
+class Erick{
+	val code: MutableList<String> = mutableListOf("HTML","CSS","JavaScript","Python","Kotlin","Java","SQL","C#")
+	val tools: MutableList<String> = mutableListOf("Node","NodeRed","Bootstrap","Azure","MySQL","Android","Unity")
+	val areas: MutableList<String> = mutableListOf("Iot","Web Developer","Movil","VideoGames")
+	val hobbies: MutableList<String> = mutableListOf("Skate","Movies","COSMOS","Raspberry","Arduino")
+	
+	fun greeting():String{
+		print("Hi, I'm Erick and I love teamwork")
+	}
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<aside>
+📇 `Create to learn and learn to create`
+
+</aside>
+
+**[LinkedIn](https://www.linkedin.com/in/erick-huitziuit-morales-garcia/)** 👋

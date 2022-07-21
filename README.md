@@ -5,9 +5,9 @@
 
 ```kotlin
 class Erick{
-	val code: MutableList<String> = mutableListOf("HTML","CSS","JavaScript","Python","Kotlin","Java","SQL","C#")
-	val tools: MutableList<String> = mutableListOf("Node","NodeRed","Bootstrap","Azure","MySQL","Android","Unity")
-	val areas: MutableList<String> = mutableListOf("Iot","Web Developer","Movil","VideoGames")
+	val code: MutableList<String> = mutableListOf("Python","Java","SQL","R","Kotlin")
+	val tools: MutableList<String> = mutableListOf("Google Cloud","MySQL","Android","Unity")
+	val areas: MutableList<String> = mutableListOf("Data Analytics","Cloud","Internet of Things")
 	val hobbies: MutableList<String> = mutableListOf("Skate","Movies","COSMOS","Raspberry","Arduino")
 	
 	fun greeting{

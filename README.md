@@ -1,7 +1,7 @@
 # Hey!, I’m Erick Huitziuit
 
-💻 Engineering student in **computer science** at the
-[Universidad Autonoma Metropolitana](http://www.cua.uam.mx/)
+💻 Data Engineering at the
+[BANK BILBAO VIZCAYA ARGENTARIA](https://www.bbva.com/es/mx/)
 
 ```kotlin
 class Erick{
